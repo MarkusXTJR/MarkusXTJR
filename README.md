@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.co.uk/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F655625658239812720%2F&psig=AOvVaw0ZU5U5ierXeiYv167LnsK0&ust=1699284298663000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPjYobmVrYIDFQAAAAAdAAAAABAE)
+
 <h1 align="center">Hi 👋, I'm Ryan!</h1>
 <h3 align="center">An aspiring Cloud Engineer traversing Cloud Infrastructure and IaC Deployment. ☁️</h3>
 
